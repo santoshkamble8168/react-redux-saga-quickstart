@@ -6,12 +6,12 @@ React Redux Saga Quickstart is a starting point for React application. This proj
 ## Getting Started
 Install project with npm/yarn
 ```bash
-git clone https://github.com/santoshkamble2694/react-redux-saga-quickstart.git
+git clone https://github.com/santoshkamble8168/react-redux-saga-quickstart.git
 ```
 
 or Create a clone with your project name
 ```bash
-git clone https://github.com/santoshkamble2694/react-redux-saga-quickstart.git your_project_name
+git clone https://github.com/santoshkamble8168/react-redux-saga-quickstart.git your_project_name
 ```
 
 ```bash
