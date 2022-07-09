@@ -9,6 +9,11 @@ Install project with npm/yarn
 git clone https://github.com/santoshkamble2694/react-redux-saga-quickstart.git
 ```
 
+or Create a clone with your project name
+```bash
+git clone https://github.com/santoshkamble2694/react-redux-saga-quickstart.git your_project_name
+```
+
 ```bash
 cd react-redux-saga-quickstart
 ```
@@ -52,4 +57,6 @@ npm start
         ├── routes.js           # Application routes handle here
 ├── index.js                    # React-redux and saga configured here
 ```
-    
+
+## Screenshot:
+![Logo](https://i.ibb.co/Ph23yrQ/react-redux-demo.png)
