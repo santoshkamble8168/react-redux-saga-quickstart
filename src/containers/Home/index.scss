@@ -1,0 +1,31 @@
+.btn{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin: 5px;
+    cursor: pointer;
+    &.primary{
+      background-color: green;
+      color: #ffffff;
+    }
+    &.secondry{
+      background-color: red;
+      color: #ffffff;
+    }
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
